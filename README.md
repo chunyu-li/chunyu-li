@@ -1,4 +1,4 @@
-# The intro of Arino Li
+# The intro of Chunyu Li
 
 1. A fan of Los Angeles Clippers.
 2. Interested in OS, Compiler, Computer Systems, Parallel Computing.
