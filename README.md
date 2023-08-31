@@ -1,6 +1,6 @@
-# The intro of Chunyu Li
+# A brief intro of Chunyu Li
 
-1. A fan of Los Angeles Clippers.
-2. Interested in OS, Compiler, Computer Systems, Parallel Computing.
-3. Pursuing Software Engineering Master Degree.
+1. Interested in Deep learning, Generative AI.
+2. Pursuing Software Engineering Master Degree.
+3. A fan of Los Angeles Clippers.
 4. Hobbies: :basketball:, :video_game:, :computer:
