@@ -1,6 +1,7 @@
-# A brief intro of Chunyu Li
+<a href="https://fudan.edu.cn/en/"> <img align="right" width="30%" src="fdu-logo.png" > </a>
 
-1. Interested in Deep learning, Generative AI.
-2. Favorite games: Black Myth: Wukong, Elden Ring, Dark Souls.
-3. A fan of Los Angeles Clippers.
-4. Hobbies: :basketball:, :video_game:, :computer:
+### Hi there, I'm Chunyu Li 👋
+
+- 🏛 I’m currently a Ph.D. student at [Fudan University (FDU)](https://fudan.edu.cn/en/).
+- 📚 Passionate about **Generative AI**.
+- 📫 You can reach me at: chunyu.li.2000@gmail.com.
